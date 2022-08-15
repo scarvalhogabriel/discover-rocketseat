@@ -12,4 +12,4 @@ O [Discover](https://www.rocketseat.com.br/discover?gclid=CjwKCAjw3K2XBhAzEiwAmm
 
 # 🚀 Desafios Realizados
 
-- 📃 [Recipe Page:](https://stellar-pony-35383a.netlify.app/) Página web de uma receita.
+- 🧇 [Recipe Page:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/01.%20Recipe-Page) Página web de uma receita.
