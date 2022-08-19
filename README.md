@@ -13,3 +13,4 @@ O [Discover](https://www.rocketseat.com.br/discover?gclid=CjwKCAjw3K2XBhAzEiwAmm
 # 🚀 Desafios Realizados
 
 - 🧇 [Recipe Page:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/01.%20Recipe-Page) Página web de uma receita.
+- 🔗 [Social Tree:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/02.%20Social-Tree) Página com uma lista de links que pode ser usada em perfis de redes sociais.
