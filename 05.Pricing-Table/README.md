@@ -9,7 +9,7 @@ O desafio é desenvolver uma página com uma tabela com as opções de preços/p
 Projeto realizado com o intenção de por em prática os conceitos de HTML e CSS estudados até o momento.
 
 - Desafio feito por: [Rockeseat.](https://www.rocketseat.com.br/)
-- Link do desafio: [RocketNews.](https://efficient-sloth-d85.notion.site/Desafio-Pricing-Table-e0b6f59253e54d229fdde09228226b32)
+- Link do desafio: [Pricing Table.](https://efficient-sloth-d85.notion.site/Desafio-Pricing-Table-e0b6f59253e54d229fdde09228226b32)
 - Deploy: [Link.](https://luxury-faloodeh-cd4daa.netlify.app/)
 
 # 👨🏻‍💻 Techs
