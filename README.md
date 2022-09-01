@@ -17,3 +17,4 @@ O [Discover](https://www.rocketseat.com.br/discover?gclid=CjwKCAjw3K2XBhAzEiwAmm
 - 📰 [RocketNews:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/03.%20RocketNews) Página web para captação de leads ou newsletter.
 - 📖 [Portifolio:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/04.%20Portifolio) Página web para que seja seu portfolio e currículo.
 - ✅ [Pricing Table:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/05.Pricing-Table) Página web com uma tabela com as opções de preços/planos do produto/serviço.
+- 🏕️ [Login Form:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/06.%20Login-Form) Página web com um formulário de login responsivo.
