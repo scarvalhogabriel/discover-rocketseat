@@ -11,7 +11,7 @@ Projeto realizado com o intenção de por em prática os conceitos de HTML e CSS
 Futuramente, pretendo consumir a API do GitHub para que as informações apresentadas na página estejam associados ao perfil de usuário.
 
 - Desafio feito por: [Rockeseat.](https://www.rocketseat.com.br/)
-- Link do desafio: [Social Tree.](https://efficient-sloth-d85.notion.site/Desafio-Portfolio-1d3db21e654941f5872aece5fcc6bcc6)
+- Link do desafio: [Portifolio.](https://efficient-sloth-d85.notion.site/Desafio-Portfolio-1d3db21e654941f5872aece5fcc6bcc6)
 - Deploy: [Link.](https://vocal-cuchufli-be1c2a.netlify.app/)
 
 # 👨🏻‍💻 Techs
