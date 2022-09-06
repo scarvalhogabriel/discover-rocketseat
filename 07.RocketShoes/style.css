@@ -147,10 +147,6 @@ footer {
   align-items: center;
 }
 
-footer iframe {
-  height: 100%;
-}
-
 footer ul {
   display: flex;
   gap: 90px;
