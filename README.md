@@ -1,5 +1,5 @@
 # 🔎 Discover Rocketseat
-Solução para os desafios propostos pelo [Discover,](https://www.rocketseat.com.br/discover?gclid=CjwKCAjw3K2XBhAzEiwAmmgrAg1i3u6so7WBLEeQthkjJF-WVwelbuW8YdBGhLi91cm2xDIBtC1lRBoCnJMQAvD_BwE) poograma de aprendizagem oferecido pela [Rockeseat.](https://www.rocketseat.com.br/)
+Solução para os desafios propostos pelo [Discover,](https://www.rocketseat.com.br/discover?gclid=CjwKCAjw3K2XBhAzEiwAmmgrAg1i3u6so7WBLEeQthkjJF-WVwelbuW8YdBGhLi91cm2xDIBtC1lRBoCnJMQAvD_BwE) programa de aprendizagem oferecido pela [Rockeseat.](https://www.rocketseat.com.br/)
 
 # 📋 Sobre o Discover
 O [Discover](https://www.rocketseat.com.br/discover?gclid=CjwKCAjw3K2XBhAzEiwAmmgrAg1i3u6so7WBLEeQthkjJF-WVwelbuW8YdBGhLi91cm2xDIBtC1lRBoCnJMQAvD_BwE) é um programa prático e gratuito para você entrar no universo de tecnologia, entender todas as possibilidades da profissão e iniciar sua jornada no mundo dev.
@@ -18,3 +18,4 @@ O [Discover](https://www.rocketseat.com.br/discover?gclid=CjwKCAjw3K2XBhAzEiwAmm
 - 📖 [Portifolio:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/04.%20Portifolio) Página web para que seja seu portfolio e currículo.
 - ✅ [Pricing Table:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/05.Pricing-Table) Página web com uma tabela com as opções de preços/planos do produto/serviço.
 - 🏕️ [Login Form:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/06.%20Login-Form) Página web com um formulário de login responsivo.
+- 👟 [RocketShoes:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/07.RocketShoes) Página web de um mini e-commerce de calçados esportivos.
