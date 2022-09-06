@@ -1,6 +1,6 @@
 # 📰 RocketNews
 
-Solução para os desafios propostos pelo [Discover,](https://www.rocketseat.com.br/discover?gclid=CjwKCAjw3K2XBhAzEiwAmmgrAg1i3u6so7WBLEeQthkjJF-WVwelbuW8YdBGhLi91cm2xDIBtC1lRBoCnJMQAvD_BwE) poograma de aprendizagem oferecido pela [Rockeseat.](https://www.rocketseat.com.br/)
+Solução para os desafios propostos pelo [Discover,](https://www.rocketseat.com.br/discover?gclid=CjwKCAjw3K2XBhAzEiwAmmgrAg1i3u6so7WBLEeQthkjJF-WVwelbuW8YdBGhLi91cm2xDIBtC1lRBoCnJMQAvD_BwE) programa de aprendizagem oferecido pela [Rockeseat.](https://www.rocketseat.com.br/)
 
 # 📃 Sobre o Desafio
 
