@@ -10,7 +10,7 @@ Projeto realizado com o intenção de por em prática os conceitos de HTML e CSS
 
 - Desafio feito por: [Rockeseat.](https://www.rocketseat.com.br/)
 - Link do desafio: [RocketShoes.](https://efficient-sloth-d85.notion.site/Desafio-RocketShoes-c21f2886517b4424a45e13345953cef0)
-- Deploy: [Link.](https://silly-axolotl-d4a2fa.netlify.app/)
+- Deploy: [Link.](https://soft-centaur-dea76f.netlify.app/)
 
 # 👨🏻‍💻 Techs
 
