@@ -150,7 +150,6 @@ footer {
 footer ul {
   display: flex;
   gap: 90px;
-  position: relative;
 }
 
 footer ul li a {
@@ -163,6 +162,7 @@ footer ul li a {
 
 footer .explorer {
   display: flex;
+  align-items: center;
   gap: 14px;
   color: #ffffff;
   background-color: var(--footer);
