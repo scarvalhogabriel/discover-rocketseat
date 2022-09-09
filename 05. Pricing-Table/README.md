@@ -20,11 +20,11 @@ Projeto realizado com o intenção de por em prática os conceitos de HTML e CSS
 # 📲 Mobile
 
 <div align="center">
-<img src="https://github.com/scarvalhogabriel/discover-rocketseat/blob/main/05.Pricing-Table/assets/mobile-demo.png"/>
+<img src="https://github.com/scarvalhogabriel/discover-rocketseat/blob/main/05.%20Pricing-Table/assets/desktop-demo.png"/>
 </div>
 
 # 🖥️ Desktop
 
 <div align="center">
-<img src="https://github.com/scarvalhogabriel/discover-rocketseat/blob/main/05.Pricing-Table/assets/desktop-demo.png"/>
+<img src="https://github.com/scarvalhogabriel/discover-rocketseat/blob/main/05.%20Pricing-Table/assets/mobile-demo.png"/>
 </div>
