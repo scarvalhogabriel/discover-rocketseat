@@ -20,5 +20,5 @@ Projeto realizado com o intenção de por em prática os conceitos de HTML e CSS
 # 🖥️ Desktop
 
 <div align="center">
-<img src="https://github.com/scarvalhogabriel/discover-rocketseat/blob/main/07.RocketShoes/assets/desktop-demo.png"/>
+<img src="https://github.com/scarvalhogabriel/discover-rocketseat/blob/main/07.%20RocketShoes/assets/desktop-demo.png"/>
 </div>
