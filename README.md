@@ -20,3 +20,4 @@ O [Discover](https://www.rocketseat.com.br/discover?gclid=CjwKCAjw3K2XBhAzEiwAmm
 - 🏕️ [Login Form:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/06.%20Login-Form) Página web com um formulário de login responsivo.
 - 👟 [RocketShoes:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/07.%20RocketShoes) Página web de um mini e-commerce de calçados esportivos.
 - ⌨️ [RocketBlog:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/08.%20RocketBlog) Página web para um blog.
+- 🌓 [Theme Switcher:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/09.%20Theme-Switcher) Página com um toggle para alternar entre o tema dark e light.
