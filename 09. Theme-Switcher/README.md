@@ -20,6 +20,6 @@ Projeto realizado com o intenção de por em prática os conceitos de HTML, CSS 
 
 # 🎥 Demonstração
 
-<div align="center">
-<img src="https://github.com/scarvalhogabriel/discover-rocketseat/blob/main/09.%20Theme-Switcher/assets/gif-demo.png"/>
+<div align="center" width="100px">
+<img width="700px" src="https://github.com/scarvalhogabriel/discover-rocketseat/blob/main/09.%20Theme-Switcher/assets/gif-demo.gif"/>
 </div>
