@@ -5,7 +5,7 @@ Solução para os desafios propostos pelo [Discover,](https://www.rocketseat.com
 O [Discover](https://www.rocketseat.com.br/discover?gclid=CjwKCAjw3K2XBhAzEiwAmmgrAg1i3u6so7WBLEeQthkjJF-WVwelbuW8YdBGhLi91cm2xDIBtC1lRBoCnJMQAvD_BwE) é um programa prático e gratuito para você entrar no universo de tecnologia, entender todas as possibilidades da profissão e iniciar sua jornada no mundo dev.
 
 
-# 🔧 Techs
+# 👨🏻‍💻 Techs
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/javascript)
@@ -21,3 +21,4 @@ O [Discover](https://www.rocketseat.com.br/discover?gclid=CjwKCAjw3K2XBhAzEiwAmm
 - 👟 [RocketShoes:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/07.%20RocketShoes) Página web de um mini e-commerce de calçados esportivos.
 - ⌨️ [RocketBlog:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/08.%20RocketBlog) Página web para um blog.
 - 🌓 [Theme Switcher:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/09.%20Theme-Switcher) Página com um toggle para alternar entre o tema dark e light.
+- 🐾 [Sidebar:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/10.%20Sidebar) Página que contém uma side bar responsiva.
