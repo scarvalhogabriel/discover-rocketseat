@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sidebar</title>
+    <link rel="icon" href="./assets/pet.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <nav>
+      <div class="menu-container">
+        <div class="menu-logo">
+          <img src="./assets/logo.svg" alt="brand vet logo" />
+        </div>
+        <div class="menu-icon">
+          <img
+            id="menu-icon-btn"
+            src="./assets/menu.svg"
+            alt="menu icon button"
+          />
+        </div>
+      </div>
+
+      <ul>
+        <li class="search-field">
+          <img src="./assets/search.svg" alt="search icon" />
+          <input type="text" placeholder="Buscar" />
+        </li>
+
+        <li>
+          <a href="#">
+            <img src="./assets/grid.svg" alt="dashboard icon" />
+            <span>Dashboard</span>
+          </a>
+        </li>
+
+        <li>
+          <a href="#">
+            <img src="./assets/pet.svg" alt="pet icon" />
+            <span>Pets</span>
+          </a>
+        </li>
+
+        <li>
+          <a href="#">
+            <img src="./assets/user.svg" alt="user icon" />
+            <span>Clientes</span>
+          </a>
+        </li>
+
+        <li>
+          <a href="#">
+            <img src="./assets/vet.svg" alt="vet icon" />
+            <span>Vets</span>
+          </a>
+        </li>
+
+        <li>
+          <a href="#">
+            <img src="./assets/settings.svg" alt="settings icon" />
+            <span>Ajustes</span>
+          </a>
+        </li>
+      </ul>
+
+      <div class="profile-container">
+        <div class="profile-content">
+          <div class="profile-img">
+            <img src="./assets/photo.jpg" alt="veterinary profile picture" />
+          </div>
+          <div class="profile-description">
+            <p>Eleanor Pena</p>
+            <p>Veterinária</p>
+          </div>
+        </div>
+
+        <div class="log-out-container">
+          <img id="teste" src="./assets/log-out.svg" alt="log out icon" />
+        </div>
+      </div>
+    </nav>
+
+    <div class="dashboard-title">
+      <h3>Dashboard</h3>
+    </div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
