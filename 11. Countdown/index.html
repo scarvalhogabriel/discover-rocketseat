@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Countdown</title>
+    <link rel="icon" href="./assets/page-icon.png" />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <img src="./assets/top-image.svg" alt="" />
+
+      <main>
+        <div class="left-container">
+          <p id="title">Ready to launch in...</p>
+
+          <div class="countdown-container">
+            <div class="countdown-box">
+              <span>Dias</span>
+              <p>00</p>
+            </div>
+
+            <div class="space">
+              <p>:</p>
+            </div>
+
+            <div class="countdown-box">
+              <span>Horas</span>
+              <p>00</p>
+            </div>
+
+            <div class="space">
+              <p>:</p>
+            </div>
+
+            <div class="countdown-box">
+              <span>Minutos</span>
+              <p>00</p>
+            </div>
+
+            <div class="space">
+              <p>:</p>
+            </div>
+
+            <div class="countdown-box">
+              <span>Segundos</span>
+              <p>00</p>
+            </div>
+          </div>
+
+          <div class="subscribe-container">
+            <p>Inscreva-se para saber mais sobre o lançamento</p>
+            <button id="subscribe-btn">Inscreva-se</button>
+          </div>
+        </div>
+
+        <img class="right-image" src="./assets/rocket.svg" alt="" />
+      </main>
+
+      <img src="./assets/bottom-image.svg" alt="" />
+    </div>
+
+    <div class="modal">
+      <form class="modal-form" action="#">
+        <div class="modal-title">
+          <p>Inscreva-se...</p>
+        </div>
+
+        <div class="modal-inputs">
+          <div class="inputs name-input">
+            <label for="name">Nome</label>
+            <input id="name" type="text" placeholder="Digite seu nome" />
+            <img class="img-input-icon" src="./assets/user.png" />
+          </div>
+
+          <div class="inputs email-input">
+            <label for="email">E-mail</label>
+            <input type="email" placeholder="Digite seu e-mail" />
+            <img class="img-input-icon" src="./assets/email.png" />
+          </div>
+
+          <button id="subscribe-btn-modal">Inscreva-se</button>
+        </div>
+      </form>
+    </div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
