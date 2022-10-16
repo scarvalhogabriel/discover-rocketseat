@@ -24,11 +24,6 @@ img {
   width: 100%;
 }
 
-.right-image {
-  max-width: 607px;
-  max-height: 435px;
-}
-
 .wrapper {
   display: flex;
   flex-direction: column;
@@ -44,6 +39,7 @@ img {
 main {
   display: flex;
   justify-content: center;
+  gap: 80px;
 }
 
 .left-container {
@@ -51,6 +47,7 @@ main {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  width: 497px;
 }
 
 .left-container #title {
@@ -122,6 +119,11 @@ main {
 .subscribe-container button:hover {
   cursor: pointer;
   transform: scale(1.02);
+}
+
+.right-image {
+  max-width: 607px;
+  max-height: 435px;
 }
 
 /* <====== MODAL ======> */
