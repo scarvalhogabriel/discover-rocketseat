@@ -1,4 +1,4 @@
-# 🔎 Discover Rocketseat
+# 🔍 Discover Rocketseat
 Solução para os desafios propostos pelo [Discover,](https://www.rocketseat.com.br/discover?gclid=CjwKCAjw3K2XBhAzEiwAmmgrAg1i3u6so7WBLEeQthkjJF-WVwelbuW8YdBGhLi91cm2xDIBtC1lRBoCnJMQAvD_BwE) programa de aprendizagem oferecido pela [Rockeseat.](https://www.rocketseat.com.br/)
 
 # 📋 Sobre o Discover
@@ -22,3 +22,4 @@ O [Discover](https://www.rocketseat.com.br/discover?gclid=CjwKCAjw3K2XBhAzEiwAmm
 - ⌨️ [RocketBlog:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/08.%20RocketBlog) Página web para um blog.
 - 🌓 [Theme Switcher:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/09.%20Theme-Switcher) Página com um toggle para alternar entre o tema dark e light.
 - 🐾 [Sidebar:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/10.%20Sidebar) Página que contém uma side bar responsiva.
+- ⏲️ [Countdown:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/11.%20Countdown) Página de coming soon (em breve) para o lançamento de um site, produto ou serviço.
