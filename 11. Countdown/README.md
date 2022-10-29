@@ -21,5 +21,5 @@ Projeto realizado com o intenção de por em prática os conceitos de HTML, CSS 
 # 🎥 Demonstração
 
 <div align="center" width="100px">
-<img width="700px" src="https://github.com/scarvalhogabriel/discover-rocketseat/blob/main/11.%20Countdown/assets/gif-demo.gif"/>
+<img width="900px" src="https://github.com/scarvalhogabriel/discover-rocketseat/blob/main/11.%20Countdown/assets/gif-demo.gif"/>
 </div>
