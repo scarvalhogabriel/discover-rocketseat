@@ -10,7 +10,7 @@ Projeto realizado com o intenção de por em prática os conceitos de HTML, CSS 
 
 - Desafio feito por: [Rockeseat.](https://www.rocketseat.com.br/)
 - Link do desafio: [RocketCoffee.](https://efficient-sloth-d85.notion.site/Desafio-RocketCoffee-7802895f0dd44da5a6f71a64badc7e72)
-- Deploy: [Link.](https://marvelous-pony-61b97e.netlify.app/)
+- Deploy: [Link.](https://clinquant-pudding-58112c.netlify.app/)
 
 # 👨🏻‍💻 Techs
 
@@ -20,11 +20,13 @@ Projeto realizado com o intenção de por em prática os conceitos de HTML, CSS 
 
 # 📲 Mobile
 
-<div style="display: inline_block">
+<div align="center">
 <img src="https://github.com/scarvalhogabriel/discover-rocketseat/blob/main/12.%20RocketCoffee/github/mobile-demo-01.png"/>
- <img src="https://github.com/scarvalhogabriel/discover-rocketseat/blob/main/12.%20RocketCoffee/github/mobile-demo-02.png"/>
 </div>
 
+<div align="center">
+<img src="https://github.com/scarvalhogabriel/discover-rocketseat/blob/main/12.%20RocketCoffee/github/mobile-demo-02.png"/>
+</div>
 
 
 # 🖥️ Desktop
