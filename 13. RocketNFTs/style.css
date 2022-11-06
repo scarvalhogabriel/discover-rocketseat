@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+  --body-background: #0e0e0e;
+  --color-logo: #ff5b50;
+  --card-color: #252525;
+  --text-color: #fff;
+  --subtitle-color: #5a5757;
+  --black-text: #000;
+  --color-input: #0d0d0d;
+}
+
+body {
+  font-family: 'Manrope', sans-serif;
+  background-color: var(--body-background);
+}
+
+.wrapper {
+  padding-inline: 8.2rem;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 5.7rem;
+}
+
+header h1 span {
+  color: var(--color-logo);
+}
+
+header nav ul {
+  display: flex;
+  gap: 6rem;
+}
+
+header nav a {
+  font-size: 1.4rem;
+  line-height: 2.2rem;
+  color: var(--text-color);
+  position: relative;
+}
+
+header nav a::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0%;
+  height: 2px;
+  background-color: var(--color-logo);
+  transition: 0.3s;
+}
+
+header nav a:hover::after {
+  width: 100%;
+}
+
+header button {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1rem 2.47rem;
+  background-color: var(--text-color);
+  transition: background 0.4s;
+}
+
+header button:hover {
+  background-color: var(--color-logo);
+  cursor: pointer;
+}
+
+header button a {
+  font-weight: 700;
+  font-size: 1.6rem;
+  line-height: 2rem;
+  color: var(--black-text);
+}
+
+main {
+  color: var(--text-color);
+  margin-top: 9.8rem;
+}
+
+main #discover {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+main #discover #left-container {
+  display: flex;
+  flex-direction: column;
+  gap: 5.5rem;
+  justify-content: space-between;
+}
+
+main #discover #left-container p {
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 2.2rem;
+  max-width: 40.1rem;
+  letter-spacing: 0.1rem;
+}
+
+main #discover #left-container #selected-artists {
+  display: flex;
+  gap: 6px;
+}
+
+main #discover #left-container #artists-description {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+
+main #discover #center-container p {
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 6.1rem;
+}
+
+main #discover #center-container span {
+  color: var(--color-logo);
+}
+
+main #gallery {
+  margin-top: 10rem;
+  display: grid;
+  grid-template: auto auto/auto auto auto auto;
+  grid-row-gap: 6rem;
+  grid-column-gap: 1.66rem;
+}
+
+main #gallery img {
+  width: 100%;
+  border: 1px solid var(--text-color);
+}
+
+.wrapper::before {
+  content: '';
+  background-image: url(./assets/background.png);
+  width: 100%;
+  height: 984px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  z-index: -1;
+}
+
