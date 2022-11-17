@@ -24,3 +24,4 @@ O [Discover](https://www.rocketseat.com.br/discover?gclid=CjwKCAjw3K2XBhAzEiwAmm
 - 🐾 [Sidebar:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/10.%20Sidebar) Página que contém uma side bar responsiva.
 - ⏲️ [Countdown:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/11.%20Countdown) Página de coming soon (em breve) para o lançamento de um site, produto ou serviço.
 - ☕ [RocketCoffee:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/12.%20RocketCoffee) Homepage responsiva para uma marca de café.
+- 🪙 [Rocket NFTs:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/13.%20RocketNFTs) Landing page completa sobre NFTs.
