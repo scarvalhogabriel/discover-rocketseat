@@ -10,7 +10,7 @@ Projeto realizado com o intenção de por em prática os conceitos de HTML e CSS
 
 - Desafio feito por: [Rockeseat.](https://www.rocketseat.com.br/)
 - Link do desafio: [RocketCard.](https://efficient-sloth-d85.notion.site/Desafio-Rocketcard-0d3572ef941f4a88889191773fe61c44)
-- Deploy: [Link.](https://inspiring-buttercream-ad11e2.netlify.app/)
+- Deploy: [Link.](https://lucent-griffin-143807.netlify.app/)
 
 # 👨🏻‍💻 Techs
 
@@ -21,5 +21,5 @@ Projeto realizado com o intenção de por em prática os conceitos de HTML e CSS
 # 🖥️ Desktop
 
 <div align="center">
-<img src="https://github.com/scarvalhogabriel/discover-rocketseat/blob/main/14.%20RocketCard/assets/gif-demo.gif"/>
+<img src="https://github.com/scarvalhogabriel/discover-rocketseat/blob/main/14.%20RocketCard/assets/gif_demo.gif"/>
 </div>
