@@ -15,6 +15,7 @@ btnSendUser.addEventListener('click', function (event) {
       .then(response => response.json())
       .then(data => {
         userAvatar.src = data.avatar_url
+        login.textContent = data.login
         followers.textContent = data.followers
         following.textContent = data.following
         repos.textContent = data.public_repos
@@ -34,6 +35,7 @@ function getGitHubInfo() {
     .then(response => response.json())
     .then(data => {
       userAvatar.src = data.avatar_url
+      login.textContent = data.login
       followers.textContent = data.followers
       following.textContent = data.following
       repos.textContent = data.public_repos
