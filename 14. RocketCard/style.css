@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@100;400;700&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Prompt', sans-serif;
+}
+
+:root {
+  --bg: #000000;
+  --bg-card: #0e1218;
+  --text: #f1f1f1;
+  --img-profile: #8257e5;
+  --buttons: #fff;
+  --border-button: #1a1a1a;
+}
+
+body {
+  background-color: var(--bg-card);
+  color: #ffffff;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2.5rem;
+  gap: 150px;
+}
+
+.title {
+  font-size: 20px;
+  padding-bottom: 22px;
+}
+
+form {
+  padding-bottom: 22px;
+} 
+
+form #name, form #sendUser {
+  appearance: none;
+  background-color: var(--bg);
+  font-size: 15px;
+  color: #ffffff;
+  padding: 12px;
+  border: 2px solid #1a1a1a;
+  border-radius: 15px;
+}
+
+form #name::placeholder {
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bg-card {
+  width: 438px;
+  height: 693px;
+  background-color: var(--bg);
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  width: 397px;
+  height: 624px;
+  background-color: var(--bg-card);
+  border-radius: 50px;
+  overflow: hidden;
+  position: relative;
+}
+
+.card-title {
+  display: flex;
+  align-items: center;
+  padding: 32px;
+}
+
+.card-title .card-img {
+  border: 1px solid #f1f1f1;
+  border-radius: 50px;
+  width: 55.42px;
+  height: 54.44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-title .card-img img {
+  width: 30.14px;
+  height: 36.94px;
+}
+
+.card-title .card-username {
+  font-weight: 400;
+  font-size: 20px;
+  padding-left: 19px;
+}
+
+.card-img {
+  position: relative;
+}
+
+.card-img .profile-img {
+  position: absolute;
+  right: -50px;
+}
+
+.card-img .profile-img img {
+  width: 22rem;
+  height: 22rem;
+  border: 6px solid var(--img-profile);
+  border-radius: 50%;
+}
+
+.card-info {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background: linear-gradient(
+    180deg,
+    #000000 3.65%,
+    rgba(70, 69, 69, 0.72) 53.65%,
+    rgba(62, 56, 56, 0.42) 100%
+  );
+  border-radius: 50px;
+  width: 195.5px;
+  height: 200.7px;
+  position: absolute;
+  top: 352px;
+  margin-left: 21px;
+}
+
+.card-info .github-info {
+  display: flex;
+  gap: 9px;
+  padding-left: 20px;
+}
+
+.card-info .github-info:nth-child(1) {
+  padding-top: 20px;
+}
+
+.card-info .github-info img {
+  width: 20.79px;
+  height: 20.79px;
+}
+
+.card-info .github-info p {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.card-footer {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  position: absolute;
+  top: 567px;
+  padding-left: 205px;
+}
+
+.card-footer img {
+  width: 30.14px;
+  height: 36.94px;
+}
+
+.card-footer p {
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+.customize-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.customize-container p {
+  font-size: 20px;
+  padding-bottom: 33px;
+}
+
+.customize-container button {
+  background-color: var(--bg);
+  font-size: 15px;
+  color: #ffffff;
+  padding: 18px;
+  border: 2px solid #1a1a1a;
+  border-radius: 15px;
+  transition: transform 0.3s;
+}
+
+.customize-container button:hover, form #sendUser:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RocketCard</title>
+    <link rel="shortcut icon" href="./assets/logo.svg" type="image/x-icon" />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="card-container">
+        <div class="title">
+          <p>Compartilhe seu #rocketcard</p>
+        </div>
+
+        <form action="#">
+          <input
+            type="text"
+            id="name"
+            placeholder="Digite seu usuário GitHub"
+          />
+
+          <input type="submit" id="sendUser" value="Enviar" />
+        </form>
+
+        <div class="bg-card">
+          <div class="card">
+            <div class="card-title">
+              <div class="card-img">
+                <img src="./assets/logo.svg" alt="" />
+              </div>
+
+              <p class="card-username">username</p>
+            </div>
+
+            <div class="card-img">
+              <div class="profile-img">
+                <img id="userAvatar" src="" alt="user profile github picture" />
+              </div>
+            </div>
+
+            <div class="card-info">
+              <div class="github-info">
+                <img src="./assets/followers.svg" />
+                <p id="followers"></p>
+                <p>Seguidores</p>
+              </div>
+
+              <div class="github-info">
+                <img src="./assets/following.svg" />
+                <p id="following"></p>
+                <p>Seguindo</p>
+              </div>
+
+              <div class="github-info">
+                <img src="./assets/repository.svg" />
+                <p id="repos"></p>
+                <p>Repositórios</p>
+              </div>
+
+              <div class="github-info">
+                <img src="./assets/company.svg" />
+                <p id="company"></p>
+              </div>
+
+              <div class="github-info">
+                <img src="./assets/location.svg" />
+                <p id="userLocation"></p>
+              </div>
+            </div>
+
+            <div class="card-footer">
+              <img src="./assets/logo.svg" />
+              <p>RocketCard</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="customize-container">
+        <p>Customizar Rocketcard</p>
+        <button id="btnBackground">Gerar background</button>
+      </div>
+    </div>
+
+    <script src="./main.js"></script>
+  </body>
+</html>
