@@ -17,13 +17,13 @@ Projeto realizado com o intenção de por em prática os conceitos de HTML e CSS
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-# 📲 Mobile
+# 🖥️ Desktop
 
 <div align="center">
 <img src="https://github.com/scarvalhogabriel/discover-rocketseat/blob/main/05.%20Pricing-Table/assets/desktop-demo.png"/>
 </div>
 
-# 🖥️ Desktop
+# 📲 Mobile
 
 <div align="center">
 <img src="https://github.com/scarvalhogabriel/discover-rocketseat/blob/main/05.%20Pricing-Table/assets/mobile-demo.png"/>
