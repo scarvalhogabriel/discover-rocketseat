@@ -17,7 +17,7 @@ subscribeModalButton.addEventListener('click', function () {
 })
 
 // Countdown
-let countDownDate = new Date('December 31, 2022').getTime() //Recebo a data em milisegundos
+let countDownDate = new Date('December 31, 2032').getTime() //Recebo a data em milisegundos
 
 let uptadeEverySecond = setInterval(() => {
   let todayDate = new Date().getTime()
