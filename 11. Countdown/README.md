@@ -10,7 +10,7 @@ Projeto realizado com o intenção de por em prática os conceitos de HTML, CSS 
 
 - Desafio feito por: [Rockeseat.](https://www.rocketseat.com.br/)
 - Link do desafio: [Countdown.](https://efficient-sloth-d85.notion.site/Desafio-Countdown-4572ce6f5c91469abe0171f454a13e3f)
-- Deploy: [Link.](https://super-snickerdoodle-f5481b.netlify.app/)
+- Deploy: [Link.](https://elegant-souffle-a30efe.netlify.app/)
 
 # 👨🏻‍💻 Techs
 
