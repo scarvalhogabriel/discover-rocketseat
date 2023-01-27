@@ -26,3 +26,4 @@ O [Discover](https://www.rocketseat.com.br/discover?gclid=CjwKCAjw3K2XBhAzEiwAmm
 - ☕ [RocketCoffee:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/12.%20RocketCoffee) Homepage responsiva para uma marca de café.
 - 🪙 [Rocket NFTs:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/13.%20RocketNFTs) Landing page completa sobre NFTs.
 - 💳 [RocketCard:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/14.%20RocketCard) Card que traz as informações da API do Github.
+- 🎥 [RocketFlix:](https://github.com/scarvalhogabriel/discover-rocketseat/tree/main/15.%20Rocketflix) Página que consome a API do themoviedb.org para exibir um filme aleatório sempre que clicar em Encontrar Filme.
